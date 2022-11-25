@@ -1,0 +1,11 @@
+- Nhập hàng chưa có quản lí nhà cung cấp
+
+- Bán kính phải có chức năng giao ca
+
+- Quản lí sản phẩm bỏ xuất báo cáo thay vào đó là chức năng Báo cáo lớn
+- Chăm sóc khách hàng ko ổn phải lấy thông tin được từ khách hàng từ đâu
+- Thêm chức năng bảo hành
+- Có thể thêm quản lí Kho
+- Thêm quản lí tìm kiếm
+- Khuyến mãi
+- Quản lí tài chính
